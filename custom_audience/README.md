@@ -5,7 +5,7 @@ The script [custom_audience_generator.py](./custom_audience_generator.py) corres
 1. Download the contents of this folder.
 2. Install [Python 3.6+](https://www.python.org/downloads/), [requests](https://requests.readthedocs.io/en/latest/), and [pandas](https://pandas.pydata.org).
 3. Get a [Free PDL License & API Key](https://docs.peopledatalabs.com/docs/quickstart#creating-an-account).
-4. Set your API key on line 12 of [custom_audience_generator.py](./custom_audience_generator.py).
+4. Set your API key on line 12 of [custom_audience_generator.py](./custom_audience_generator.py#L12).
     ```python
     'x-api-key': '**** YOUR API KEY HERE ****'
     ```
