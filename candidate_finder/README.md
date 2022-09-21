@@ -1,4 +1,4 @@
-# Custom Audience Generation
+# Candidate Finder
 The script [candidate_finder.py](./candidate_finder.py) corresponds to our [How to Find Candidates using a Job Description tutorial](>> LINK TBD <<).
 
 ## Getting Started
