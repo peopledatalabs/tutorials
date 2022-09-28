@@ -1,5 +1,5 @@
 # Candidate Finder
-The script [candidate_finder.py](./candidate_finder.py) corresponds to our [How to Find Candidates using a Job Description tutorial](>> LINK TBD <<).
+The script [candidate_finder.py](./candidate_finder.py) corresponds to our [How to Find Candidates using a Job Description tutorial](https://blog.peopledatalabs.com/post/how-to-find-candidates-using-a-job-description).
 
 ## Getting Started
 1. Download the contents of this folder.
@@ -21,9 +21,9 @@ The script [candidate_finder.py](./candidate_finder.py) corresponds to our [How 
 
 
 ## Tips
-For a detailed explanation of this script, please watch the [tutorial](>> LINK TBD <<).
+For a detailed explanation of this script, please watch the [tutorial](https://blog.peopledatalabs.com/post/how-to-find-candidates-using-a-job-description).
 
 ### Getting Different Results
 The tutorial was written using [v19.0](https://docs.peopledatalabs.com/changelog/july-2022-release-notes-v19) of the PDL API, and [v1.1.0](https://pypi.org/project/peopledatalabs/1.1.0/) of PDL's Python SDK.
 
-In future builds, the people matched may be different than the examples in the [tutorial](>> LINK TBD <<).
+In future builds, the number of matches may be different than shown in the [tutorial](https://blog.peopledatalabs.com/post/how-to-find-candidates-using-a-job-description).
